@@ -1,4 +1,5 @@
 # Contador de Vehículos con YOLO
+por José Ramón Blanco Gutiérrez
 
 ## Descripción
 
